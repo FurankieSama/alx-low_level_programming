@@ -6,3 +6,5 @@ I've had to read documentations, and I must say. Not bad, not bad at all
 1-compiler: BASH SCRIPT COMPILING C FILE BUT NOT LINKING
 
 2-assembler: BASH SCRIPT RUNNING C FILE THROUCH ASSEMBLY
+
+3-name: BASH SCRIPT RUNNING C FILE AND CREATING EXECUTABL NAMED "cisfun"
