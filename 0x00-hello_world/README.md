@@ -4,3 +4,5 @@ I've had to read documentations, and I must say. Not bad, not bad at all
 0-preprocessor: BASH SCRIPT RUNNING C FILE THROUGH PREPROCESSOR AND USING THE -o OPTION
 
 1-compiler: BASH SCRIPT COMPILING C FILE BUT NOT LINKING
+
+2-assembler: BASH SCRIPT RUNNING C FILE THROUCH ASSEMBLY
