@@ -6,7 +6,8 @@
 void print_numbers(void)
 {
 char c;
-while (c < 9)
+c = 0;
+while (c <= 9)
 {
 _putchar(c);
 }
