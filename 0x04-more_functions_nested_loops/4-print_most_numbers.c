@@ -9,7 +9,7 @@ c = 0;
 while (c <= 9)
 {
 c++;
-if (c != 2 && c != 4)
+if (c != 2 || c != 4)
 {
 _putchar(c);
 }
