@@ -7,9 +7,9 @@
 
 void print_triangle(int size)
 {
-    int first;
-    int secnd;
-    int thrd;
+int first;
+int secnd;
+int thrd;
 if (size <= 0)
 {
 _putchar('\n');
