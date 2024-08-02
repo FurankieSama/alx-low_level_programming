@@ -16,13 +16,13 @@ _putchar('\n');
 }
 else
 {
-for (first = 0; first < size; first++)
+for (first = ; first <= size; first++)
 {
 for (secnd = first; secnd < size; secnd++)
 {
 _putchar(' ');
 }
-for (thrd = 0; thrd <= first; thrd++)
+for (thrd = 1; thrd <= first; thrd++)
 {
 _putchar('#');
 }
